@@ -1,0 +1,3 @@
+(s)|{"appid":"d929b3e0-29a3-4d7b-8218-09682fe53bdf","userid":"169a3f8f7d337b4b0a4bc91c511a0902","sessionid":1441185897842901536,"platform":"AndroidPlayer","platformid":11,"sdk_ver":"u2020.3.34f1","sdk_rev":"9a4c9c70452b","session_count":12,"localprojectid":"76a47c1ce81204317ba354e9c2aaf0e8","build_guid":"7a188e764e12645a089a235e2ab86299","deviceid":"322d9f17bc5423b6738c47bea30c0de4","identity_token":"169a3f8f7d337b4b0a4bc91c511a0902"}
+(g)|2
+{"type":"analytics.appRunning.v1","msg":{"duration":1335,"local_time_offset":-28800000,"ts":1693150841056,"t_since_start":1483165393}}
